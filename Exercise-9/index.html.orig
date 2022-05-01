@@ -1,0 +1,11 @@
+<html>
+<body>
+	<p> this is index.html </p>
+<<<<<<< HEAD
+	<p> changes from master branch </p>
+=======
+	<p> Modified. </p>
+>>>>>>> my-feature
+</body>
+</html>
+
